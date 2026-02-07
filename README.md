@@ -12,6 +12,12 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrajparekh012&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajparekh012&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+---
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,5 +78,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vrajparekh012&label=Profile+Views&color=00C8FF&style=flat" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:1E3A8A&height=120&section=footer"/>
