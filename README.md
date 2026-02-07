@@ -12,12 +12,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrajparekh012&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajparekh012&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
----
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
