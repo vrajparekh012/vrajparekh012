@@ -35,14 +35,9 @@
 
 ## 📊 GitHub Stats
 
-![Vraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrajparekh012&show_icons=true&theme=tokyonight&&cache_seconds=1800
-)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrajparekh012&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vrajparekh012&theme=tokyonight&&cache_seconds=1800
-)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajparekh012&layout=compact&theme=tokyonight&&cache_seconds=1800
-)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajparekh012&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 
 <p align="center">
