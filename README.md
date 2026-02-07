@@ -57,10 +57,6 @@
 
 ---
 
-![Metrics](https://github.com/lowlighter/metrics/blob/master/examples/metrics.base.svg)
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vraj-parekh-2b9a68284?utm_source=share_via&utm_content=profile&utm_medium=member_android">
@@ -76,3 +72,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vrajparekh012&label=Profile+Views&color=00C8FF&style=flat" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:1E3A8A&height=120&section=footer"/>
