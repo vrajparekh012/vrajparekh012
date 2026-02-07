@@ -35,11 +35,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vrajparekh012&theme=tokyo-night)
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajparekh012&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
 ---
 
 ## 🚀 Projects
@@ -62,10 +57,7 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vrajparekh012/vrajparekh012/output/github-contribution-grid-snake.svg" />
-</p>
+![Metrics](https://github.com/lowlighter/metrics/blob/master/examples/metrics.base.svg)
 
 ---
 
