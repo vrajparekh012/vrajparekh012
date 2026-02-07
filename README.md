@@ -6,6 +6,7 @@
 
 ## 👨‍💻 About Me
 🎓 AI & Data Science undergraduate  
+🎯 Actively preparing for AI/ML internships and entry-level roles
 🤖 Strong interest in ML, NLP, Speech & Automation  
 🚀 Building real-world, placement-oriented AI projects  
 📊 Focused on practical problem-solving with data  
