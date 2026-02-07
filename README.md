@@ -73,3 +73,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vrajparekh012&label=Profile+Views&color=00C8FF&style=flat" />
 </p>
+
+---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:1E3A8A&height=120&section=footer"/>
